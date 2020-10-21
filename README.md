@@ -1,2 +1,2 @@
-# covid19_downloader
-Download data from SFTP
+# data_downloader
+Download data via SFTP
